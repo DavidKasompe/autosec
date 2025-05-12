@@ -34,3 +34,8 @@ dist-ssr
 # Build output
 build/
 dist/
+
+# Security and local config files
+secrets.json
+credentials.json
+*.config.local.json
